@@ -1,0 +1,1 @@
+Nel php.ini in XAMPP bisogna scommentare (togliere ;) dalla riga extension=gd. Questo per fare il resize delle immagini tramite la libreria intervention/image.
